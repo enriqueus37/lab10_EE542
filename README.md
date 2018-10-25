@@ -25,3 +25,5 @@ python3 gen_miRNA_matrix.py
 
 Part 2: Apply Machine Learning Package (sklearn) to the above data.
 
+In order to execute the Linear learner model, the following has to be done:
+
